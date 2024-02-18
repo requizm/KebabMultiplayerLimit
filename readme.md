@@ -1,4 +1,4 @@
-Basic Kebab Chefs! - Restaurant Simulator mod. It sets room size from 1-2-3-4 to 6(hardcoded)
+Kebab Chefs! - Restaurant Simulator mod. It sets room size from 1-2-3-4 to 6(hardcoded)
 
 ## Compiling
 
