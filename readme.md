@@ -8,3 +8,7 @@ Basic Kebab Chefs! - Restaurant Simulator mod. It sets room size from 1-2-3-4 to
 ## Installation
 
 1. You can load dll with [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop), [BepInEx](https://github.com/BepInEx/BepInEx), etc.
+
+## Note
+
+Somehow all markets are closed when player size is bigger than 4. Couldn't fix it yet ¯\_(ツ)_/¯
